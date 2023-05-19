@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Try those credentials:
+name: "Bret"
+phone: "1-770-736-8031 x56442"
+
+name: "Antonette"
+phone: "010-692-6593 x09125"
